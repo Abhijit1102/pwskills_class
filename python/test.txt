@@ -1,1 +1,1 @@
- write in test.txt file
+this is my msg to file
