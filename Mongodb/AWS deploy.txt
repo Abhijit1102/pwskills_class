@@ -1,0 +1,4 @@
+## AWS Deployment
+
+-- github{code} -> AWS
+                -> AWS{code pipleline} -> Aws{Minus tagcs}
